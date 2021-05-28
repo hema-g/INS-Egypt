@@ -1,0 +1,23 @@
+.ins-header{
+    width: auto;
+    height: 680px;
+}
+#my-services{
+    margin: 20px;
+}
+#who-we-are{
+    margin-top: 0px;
+   
+    text-align: center;
+}
+#who-we-are>p{
+    text-align: center;
+}
+.my-project-demo{
+    margin: 0 auto;
+    width: 760;
+    
+}
+main{
+    margin: 30px;
+}
